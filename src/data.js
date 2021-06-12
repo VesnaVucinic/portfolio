@@ -4,3 +4,5 @@ const projects = [
     {url: "https://www.youtube.com/watch?v=RVN4pmcJtF8&t=19s", name: "Ruby on Rails Project"},
     {url: "https://www.youtube.com/watch?v=-q7OTzbdKU0&t=4s", name: "Sinatra Project"}
 ]
+
+export default projects
